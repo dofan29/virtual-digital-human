@@ -1,0 +1,23 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: digital-human-backend
+
+azure:
+  speech:
+    key: 7X46DA3q3hB6koqtOKqc2LGFHfwtZwocbU94XkGTqm3L5BEmiYSQJQQJ99BDAC3pKaRXJ3w3AAAYACOGzraO
+    region: eastasia
+
+python:
+  nlp:
+    model-path: D:/DialoGPTmaster
+    grpc-port: 50051
+  tts:
+    azure-enabled: true
+
+logging:
+  level:
+    com.digitalhuman: DEBUG
+    org.springframework: INFO 

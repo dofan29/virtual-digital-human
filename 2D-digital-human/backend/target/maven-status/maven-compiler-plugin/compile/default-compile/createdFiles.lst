@@ -1,0 +1,9 @@
+com\digitalhuman\api\ChatAPI$1.class
+com\digitalhuman\core\SpeechService.class
+com\digitalhuman\config\WebConfig.class
+com\digitalhuman\model\Character.class
+com\digitalhuman\DigitalHumanApplication$1.class
+com\digitalhuman\DigitalHumanApplication.class
+com\digitalhuman\model\Character$CharacterBuilder.class
+com\digitalhuman\api\ChatAPI.class
+com\digitalhuman\core\AIController.class
